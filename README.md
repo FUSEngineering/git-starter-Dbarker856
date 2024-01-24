@@ -90,6 +90,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next step (What you should do)
 
+Done
+
 * Open a pull request and let your teacher know that you’ve finished this course.  
 
 ## 📝 Optional next steps 
